@@ -1,0 +1,13 @@
+# GVIX theme — aligned with the Charts & Parts website.
+# Light theme, gold accent, near-black text, sans-serif, matching the main site.
+# Mirrors charts-and-parts-webapp/src/theme/colors.ts.
+[theme]
+base = "light"
+primaryColor = "#E7B73B"             # gold-dark (readable accent on white)
+backgroundColor = "#FFFFFF"          # page surface
+secondaryBackgroundColor = "#F9FAFB" # sidebar / cards
+textColor = "#171819"                # near-black brand text
+font = "sans serif"
+
+[server]
+headless = true

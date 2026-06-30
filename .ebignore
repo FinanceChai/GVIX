@@ -1,0 +1,7 @@
+# Files excluded from the Elastic Beanstalk deployment bundle.
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.streamlit/secrets.toml
